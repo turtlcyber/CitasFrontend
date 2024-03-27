@@ -1,0 +1,50 @@
+.loginsection {
+  padding: 60px;
+
+}
+
+@media screen and (max-width: 520px) {
+  .loginsection {
+    padding: 5px;
+  }
+
+  .imgmob {
+    width: 300px;
+    height: 200px;
+
+  }
+}
+
+
+.form-label {
+  font-size: 18px;
+  font-weight: 800;
+
+}
+
+.admin {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+  text-decoration: underline;
+  text-align: center;
+  padding: 20px;
+  color: linear-gradient(304deg, #e8d322 3.03%, #e54d1f 27.62%, #f49353 76.39%, #c50a62 112.44%) !important;
+  ;
+}
+
+.adminimg {
+  border-radius: 30px;
+  background: linear-gradient(304deg, #e8d322 3.03%, #e54d1f 27.62%, #f49353 76.39%, #c50a62 112.44%) !important;
+}
+
+.loginform {
+  padding: 30px;
+}
+
+.imgadmin {
+  padding: 30px;
+}
+
+card {
+  border-radius: 30px;
+}

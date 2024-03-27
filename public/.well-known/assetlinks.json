@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.citas.app",
+    "sha256_cert_fingerprints":
+    ["7A:94:C6:A8:F6:E2:81:85:C0:1E:05:CF:72:8F:C9:86:92:A0:05:90:ED:0D:2D:F3:F7:9C:E8:B0:FA:FB:93:CC"]
+  }
+}]

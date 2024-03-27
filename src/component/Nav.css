@@ -1,0 +1,75 @@
+.navbar {
+  background: linear-gradient(75deg, #dc8be4, #bd43de) !important;
+}
+
+.nav-item a {
+  font-weight: 600;
+  font-size: 14px;
+
+}
+
+.navbar2 {
+  border-radius: 30px;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+@media screen and (min-width: 720px) {
+  .navbar-collapse {
+    padding: 0px 120px 0px 600px;
+  }
+}
+
+.navbar-collapse {
+  padding: 0px 120px 0px 520px;
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 720px) {
+  .navbar-collapse {
+    padding: 0px 20px 0px 20px;
+  }
+
+  .navbar-toggler {
+    margin-left: 155px;
+  }
+
+  .logocls {
+    margin-left: 1px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .navbar-collapse {
+    padding: 0px 20px 0px 20px;
+  }
+
+  .navmobile {
+    margin-left: auto;
+  }
+}
+
+ul {
+  word-spacing: 20px;
+}
+
+li {
+  padding: 0px 10px 0px 10px;
+
+}
+
+li:hover {
+  color: rgb(79, 13, 1);
+  border: .2px solid;
+  background: linear-gradient(75deg, #dc8be4, #bd43de) !important;
+  box-shadow: rgb(234, 228, 228);
+  border-radius: 10px;
+  transition: all 0.1s;
+  cursor: pointer;
+
+}

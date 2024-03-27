@@ -1,0 +1,40 @@
+footer {
+  background: linear-gradient(75deg, #d77d91, #e032b1) !important;
+}
+
+footers {
+  background: linear-gradient(75deg, #e62b54, #c276ad) !important;
+}
+
+.pbh {
+  padding: 10px 2px 0px 2px;
+}
+
+.con-footer .py-5 {
+  padding: 50px 20px 20px 20px;
+  border-radius: 0px;
+}
+
+.text-body-secondary {
+  font-weight: 500;
+  --bs-text-opacity: 1;
+  color: rgb(246 248 250 / 95%) !important;
+}
+
+.footercopy {
+  color: black;
+}
+
+.con-footer .nav-item a {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.icon-link .accent-bg span {
+  margin-left: 10px;
+
+}
+
+.textpf {
+  word-spacing: 4px;
+}
